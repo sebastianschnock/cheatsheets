@@ -1,11 +1,11 @@
-# my cheat sheets
+# My cheat sheets
 This is my collection of cheat sheets for stuff like bash commands, shortcuts for editors, etc.
 
-## folders
+## Folders
 - howto: general tips and howto instructions
 - keys: shortcuts
 
-## usage
+## Usage
 You can define a function like this in your shell:
 ```
 function cheatsheet {
@@ -26,6 +26,6 @@ alias howto='cheatsheet howto'
 ```
 
 Then use it like this:
-```keys sublime'''
+```keys sublime```
 or:
 ```howto ssh tunnel```
