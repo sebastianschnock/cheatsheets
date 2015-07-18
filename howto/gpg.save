@@ -1,0 +1,5 @@
+### HOWTO : gpg
+
+list keys				gpg -k
+export key				gpg -a --export <UID>
+

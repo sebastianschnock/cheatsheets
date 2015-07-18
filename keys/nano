@@ -1,0 +1,9 @@
+# nano text editor
+
+exit                    Ctrl + x
+search                  Ctrl + w
+
+# editing
+cut line                Ctrl + k
+paste line              Ctrl + u
+save file               Ctrl + o

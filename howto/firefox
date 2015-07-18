@@ -1,0 +1,6 @@
+# HOWTO : firefox
+
+# disable sync of addon enabled/disabled state
+in about:config set
+services.sync.addons.ignoreUserEnabledChanges
+to 'true'

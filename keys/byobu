@@ -1,0 +1,5 @@
+# byobu
+
+help						F9
+toggle F keys           			Shift + F12
+detach from screen session inside of tmux	Ctrl + a, a, d

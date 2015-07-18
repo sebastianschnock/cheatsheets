@@ -1,0 +1,4 @@
+### HOWTO : subversion
+
+view commit messages		svn log
+diff between revisions		svn diff -r 13447:HEAD

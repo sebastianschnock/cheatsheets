@@ -1,0 +1,8 @@
+### HOWTO : bash
+
+find a file in dir (and subdirs)	find <dir> -type f -name "<filename"
+					eg: find . -type f -name "java"
+
+find out linux version			cat /etc/*-release
+					lsb_release -a
+find out linux kernel			uname -a

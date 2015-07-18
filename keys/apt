@@ -1,0 +1,4 @@
+### HOWTO : apt package manager
+
+show version in repo		apt-cache policy <package>
+build deb package		sudo checkinstall (in folder, after make)

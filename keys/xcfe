@@ -1,0 +1,15 @@
+# XCFE window manager
+
+application manager	Super + r
+file manager		Super + f
+terminal		Super + t
+browser			Super + w
+mail client		Super + m
+
+add workspace		Alt + Insert
+remove workspace	Alt + Delete
+
+maximize		Alt + F10
+maximize vertically	Alt + F6
+maximze horizontally	Alt + F7
+

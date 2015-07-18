@@ -1,0 +1,32 @@
+# sublime text
+
+# various
+command palette                 Ctrl + Shift + p
+toggle sidebar                  Ctrl + k, Ctrl + b
+full screen                     F11
+distraction free mode           Shift + F11
+
+# navigation
+open file                       Ctrl + p
+switch project			Ctrl + Alt + p
+goto symbol                     Ctrl + r
+goto line                       Ctrl + g
+goto matching bracket		Strl + m
+focus sidebar                   Ctrl + 0
+focus group 1,2,...             Ctrl + 1,2,...
+incremental search		Ctrl + i
+
+# editing
+multi select                    Ctrl + d
+sort lines                      F9
+change indentation		Ctrl + [ / ]
+paste from history		Ctrl + k, Ctrl + v
+
+# selecting
+select all inside html tag      Ctrl + Shift + a
+select complete line		Ctrl + l
+select with same indent		Ctrl + Shift + j
+
+# plugins
+prettify html/css/js		Ctrl + Shift + h
+css comb			Ctrl + Shift + c

@@ -1,0 +1,4 @@
+### HOWTO : sssh
+
+open tunnel                 	ssh -R <remote-port>:localhost:<local-port>
+create passwordless keys	ssh-keygen -t rsa -P '' -f /tmp/key
