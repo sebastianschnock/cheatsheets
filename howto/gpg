@@ -1,8 +1,5 @@
-### HOWTO : bash
+### HOWTO : gpg
 
-find a file in dir (and subdirs)	find <dir> -type f -name "<filename"
-					eg: find . -type f -name "java"
+list keys				gpg -k
+export key				gpg -a --export <UID>
 
-find out linux version			cat /etc/*-release
-					lsb_release -a
-find out linux kernel			uname -a
