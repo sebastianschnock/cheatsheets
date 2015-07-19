@@ -3,7 +3,7 @@ This is my collection of cheat sheets for stuff like bash commands, shortcuts fo
 
 ## Folders
 - howto: general tips and howto instructions
-- keys: shortcuts
+- shortcuts: shortcuts
 
 ## Usage
 You can define a function like this in your shell:
@@ -21,11 +21,11 @@ function cheatsheet {
   echo
 }
 
-alias keys='cheatsheet keys'
-alias howto='cheatsheet howto'
+alias keys='cheatsheet shortcuts'
+alias how='cheatsheet howto'
 ```
 
 Then use it like this:
 ```keys sublime```
 or:
-```howto ssh tunnel```
+```how ssh tunnel```
