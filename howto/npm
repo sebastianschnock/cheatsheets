@@ -1,4 +1,4 @@
 ### HOWTO : node package manager
 
-install package				npm -g install <package>
-update installed package			npm -g update <package>
+install package                      npm -g install <package>
+update installed package             npm -g update <package>
