@@ -1,4 +1,8 @@
 ### HOWTO : node package manager
 
-install package                      npm -g install <package>
-update installed package             npm -g update <package>
+install package (global)             npm -g install <package>
+update installed package (global)    npm -g update <package>
+show packages versions (local)       npm list --depth=0
+show packages versions (global)      npm list -g --depth=0
+show packages versions (repo)        npm show <package> version
+
