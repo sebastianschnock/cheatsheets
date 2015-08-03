@@ -32,3 +32,4 @@ select with same indent         Ctrl + Shift + j
 prettify html/css/js            Ctrl + Shift + h
 css comb                        Ctrl + Shift + c
 generate/update docs            Alt + q
+jump between symbols            Alt + up / down
