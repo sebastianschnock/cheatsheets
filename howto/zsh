@@ -10,6 +10,7 @@ lt				-		list sorted by date
 http-serve			-		serves dir content on port 8000
 cdls				-		cd and ls combined
 mkdcd				-		mkdir and cd combined
+prompt                          -               change prompt (temporarily)
 
 ## git
 gws				-		git status (short)
