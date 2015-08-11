@@ -1,0 +1,4 @@
+### HOWTO : git
+
+update remote url                       git remote set-url <remote> <url>
+
