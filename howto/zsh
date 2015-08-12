@@ -11,6 +11,7 @@ http-serve			-		serves dir content on port 8000
 cdls				-		cd and ls combined
 mkdcd				-		mkdir and cd combined
 prompt                          -               change prompt (temporarily)
+rehash                          -               rebuild cache of executables (for tab completion)
 
 ## git
 gws				-		git status (short)
