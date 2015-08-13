@@ -7,3 +7,4 @@ find out linux version			cat /etc/*-release
 					lsb_release -a
 find out linux kernel			uname -a
 enable debug output for bash script     bash -x <script>
+copy and keep parent dirs               cp --parents
