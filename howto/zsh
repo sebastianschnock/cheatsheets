@@ -22,3 +22,4 @@ gc				-		git commit
 gp				-		git push
 gf                              -               git fetch
 gm                              -               git merge
+gfm                             -               git pull
