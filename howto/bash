@@ -6,5 +6,6 @@ find a file in dir (and subdirs)	find <dir> -type f -name "<filename"
 find out linux version			cat /etc/*-release
 					lsb_release -a
 find out linux kernel			uname -a
+find out 32/64 bit                      uname -m
 enable debug output for bash script     bash -x <script>
 copy and keep parent dirs               cp --parents
