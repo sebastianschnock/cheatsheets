@@ -1,4 +1,7 @@
 ### HOWTO : git
 
 update remote url                       git remote set-url <remote> <url>
+add remote url                          git remote add origin <url>
+show remote url (localy broken)         git config --get remote.origin.url
+show remote url                         git remote show origin
 
