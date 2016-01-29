@@ -1,11 +1,20 @@
 ### HOWTO : bash
 
-find a file in dir (and subdirs)	find <dir> -type f -name "<filename"
-					eg: find . -type f -name "java"
+# system
 
 find out linux version			cat /etc/*-release
 					lsb_release -a
 find out linux kernel			uname -a
 find out 32/64 bit                      uname -m
-enable debug output for bash script     bash -x <script>
+show mounts                             df -h
+
+# files
+
+find a file in dir (and subdirs)	find <dir> -type f -name "<filename"
+					eg: find . -type f -name "java"
+find files that are newer than x days   find . -mtime -1
 copy and keep parent dirs               cp --parents
+show dir size                           du -sh <dir>
+
+# various
+enable debug output for bash script     bash -x <script>

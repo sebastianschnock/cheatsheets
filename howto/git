@@ -5,3 +5,4 @@ add remote url                          git remote add origin <url>
 show remote url (localy broken)         git config --get remote.origin.url
 show remote url                         git remote show origin
 
+create and switch to branch             git checkout -b <branch-name>

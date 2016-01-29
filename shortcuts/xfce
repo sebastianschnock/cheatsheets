@@ -6,6 +6,8 @@ terminal		Super + t
 browser			Super + w
 mail client		Super + m
 
+switch displays         Super + p
+
 add workspace		Alt + Insert
 remove workspace	Alt + Delete
 
