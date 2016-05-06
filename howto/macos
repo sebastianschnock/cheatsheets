@@ -1,0 +1,5 @@
+### HOWTO : Mac OS X
+
+
+start second skype instance             open -na /Applications/Skype.app --args -DataPath /Users/$(whoami)/Library/Application\ Support/Skype2
+                                        open -na /Applications/Skype.app --args -DataPath /Users/$(whoami)/Library/Application\ Support/Skype3 etc
