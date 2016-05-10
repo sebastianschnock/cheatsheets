@@ -1,6 +1,10 @@
 # mac os
 
-Umlaut                  Option + u, u/a/o
+Umlaut                        Option + u, u/a/o
+special characters window     Ctrl + Cmd + Space
+open preferences              Cmd + ,
+switch windows in app         Cmd + `
+toggle fullscreen             Ctrl + Cmd + f
 
 # firefox
-home                    Option + Fn + Left
+home                          Option + Fn + Left
