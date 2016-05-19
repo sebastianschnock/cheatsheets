@@ -5,6 +5,7 @@ special characters window     Ctrl + Cmd + Space
 open preferences              Cmd + ,
 switch windows in app         Cmd + `
 toggle fullscreen             Ctrl + Cmd + f
+show desktop                  F11
 
 # firefox
 home                          Option + Fn + Left

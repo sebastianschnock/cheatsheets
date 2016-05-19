@@ -1,9 +1,20 @@
 ### HOWTO : git
 
-update remote url                       git remote set-url <remote> <url>
+# remotes
 add remote url                          git remote add origin <url>
+update remote url                       git remote set-url <remote> <url>
 show remote url (localy broken)         git config --get remote.origin.url
 show remote url                         git remote show origin
 
+# branching
 create and switch to branch             git checkout -b <branch-name>
 show remote branches                    git branch -a
+
+# commit
+revert local commits                    git reset --hard <remote>/<branch>
+revert local dir                        git checkout -- .
+
+# log
+show unpushed commits                   git log <remote>/<branch>..<local-branch>
+                                        git log origin/master..
+
