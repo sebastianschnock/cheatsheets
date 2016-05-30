@@ -16,6 +16,7 @@ goto matching bracket           Ctrl + m
 focus sidebar                   Ctrl + 0
 focus group 1,2,...             Ctrl + 1,2,...
 incremental search              Ctrl + i
+show file in sidebar            Super + Shift + r
 
 # editing
 multi select                    Ctrl + d
