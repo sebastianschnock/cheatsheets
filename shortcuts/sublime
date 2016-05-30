@@ -30,7 +30,7 @@ select complete line            Ctrl + l
 select with same indent         Ctrl + Shift + j
 
 # plugin: sublime bookmarks
-create named boomark            Ctrl + F2
+create named bookmark            Ctrl + F2
 toggle bookmark                 Shift + F2
 goto bookmark                   F2
 remove bookmark                 Ctrl + Shift + F2
