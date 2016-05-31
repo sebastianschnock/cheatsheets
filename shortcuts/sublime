@@ -5,6 +5,7 @@ command palette                 Ctrl + Shift + p
 toggle sidebar                  Ctrl + k, Ctrl + b
 full screen                     F11
 distraction free mode           Shift + F11
+distraction free mode (macos)   Cmd + Ctrl + Shift + f
 fold / unfold                   Ctrl + Shift + [ / ]
 
 # navigation
@@ -21,6 +22,7 @@ show file in sidebar            Super + Shift + r
 # editing
 multi select                    Ctrl + d
 sort lines                      F9
+sort lines (macos)              Ctrl + F5
 change indentation              Ctrl + [ / ]
 paste from history              Ctrl + k, Ctrl + v
 
