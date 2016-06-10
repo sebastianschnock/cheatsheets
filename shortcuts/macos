@@ -6,6 +6,8 @@ open preferences              Cmd + ,
 switch windows in app         Cmd + `
 toggle fullscreen             Ctrl + Cmd + f
 show desktop                  F11
+take screenshot (full)        Cmd + Shift + 3
+take screenshot (part)        Cmd + Shift + 4
 
 # firefox
 home                          Option + Fn + Left
