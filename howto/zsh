@@ -1,25 +1,28 @@
 ### HOWTO : zsh and prezto
 
-d				-		show directory stack
-1...9				-		move to directory in stack
-j				-		jump to dir, either interactively or with given param
-history-stat			-		lists the ten most used commands
-_				-		execute as sudo
-e				-		opens default editor
-lt				-		list sorted by date
-http-serve			-		serves dir content on port 8000
-cdls				-		cd and ls combined
-mkdcd				-		mkdir and cd combined
-prompt                          -               change prompt (temporarily)
-rehash                          -               rebuild cache of executables (for tab completion)
+d				 		show directory stack
+1...9				 		move to directory in stack
+j				 		jump to dir, either interactively or with given param
+_				 		execute as sudo
+e				 		opens default editor
+lt				 		list sorted by date
+http serve			 		serves dir content on port 8000
+cdls				 		cd and ls combined
+mkdcd				 		mkdir and cd combined
+prompt                                          change prompt (temporarily)
+rehash                                          rebuild cache of executables (for tab completion)
+
+# history
+history stat			 		lists the ten most used commands
+history 1                                       shows the history (starting from line 1)
 
 ## git
-gws				-		git status (short)
-gfc				-		git clone
-gia				-		git add
-giA				-		git add (interactive)
-gc				-		git commit
-gp				-		git push
-gf                              -               git fetch
-gm                              -               git merge
-gfm                             -               git pull
+gws				 		git status (short)
+gfc				 		git clone
+gia				 		git add
+giA				 		git add (interactive)
+gc				 		git commit
+gp				 		git push
+gf                                              git fetch
+gm                                              git merge
+gfm                                             git pull
