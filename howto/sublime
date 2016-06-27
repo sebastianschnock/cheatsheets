@@ -30,6 +30,7 @@ paste from history              Ctrl + k, Ctrl + v
 select all inside html tag      Ctrl + Shift + a
 select complete line            Ctrl + l
 select with same indent         Ctrl + Shift + j
+column select (mac os)          Ctrl + Shift + up/down
 
 # plugin: sublime bookmarks
 create named bookmark            Ctrl + F2
