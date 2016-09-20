@@ -16,6 +16,7 @@ toggle fullscreen             Ctrl + Cmd + f
 show desktop                  F11
 take screenshot (full)        Cmd + Shift + 3
 take screenshot (part)        Cmd + Shift + 4
+show hidden files in dialog   Cmd + Shift + . (not in column view)
 
 # firefox
 home                          Option + Fn + Left

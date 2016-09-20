@@ -11,6 +11,7 @@ cdls				 		cd and ls combined
 mkdcd				 		mkdir and cd combined
 prompt                                          change prompt (temporarily)
 rehash                                          rebuild cache of executables (for tab completion)
+sudo \COMMAND                                   prevent 'nocorrect' error
 
 # history
 history stat			 		lists the ten most used commands

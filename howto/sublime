@@ -25,6 +25,7 @@ sort lines                      F9
 sort lines (macos)              Ctrl + F5
 change indentation              Ctrl + [ / ]
 paste from history              Ctrl + k, Ctrl + v
+join lines (mac os)             Cmd + j
 
 # selecting
 select all inside html tag      Ctrl + Shift + a
