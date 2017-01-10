@@ -1,0 +1,3 @@
+# owncloud
+
+disable maintenance mode                              sudo -u www-data php occ maintenance:mode --off

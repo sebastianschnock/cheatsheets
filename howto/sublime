@@ -7,6 +7,9 @@ full screen                     F11
 distraction free mode           Shift + F11
 distraction free mode (macos)   Cmd + Ctrl + Shift + f
 fold / unfold                   Ctrl + Shift + [ / ]
+fold / unfold (macos)           Cmd + Alt + [ / ]
+unfold all (macos)              Cmd + k, Cmd + j
+fold level 1...9 (macos)        Cmd + k, Cmd + 1...9
 
 # navigation
 open file                       Ctrl + p
@@ -45,3 +48,6 @@ prettify html/css/js            Ctrl + Shift + h
 css comb                        Ctrl + Shift + c
 generate/update docs            Alt + q
 jump between symbols            Alt + up / down
+
+# settings
+crisp fonts on retina           "font_options" : ["gray_antialias"]

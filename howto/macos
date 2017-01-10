@@ -17,6 +17,7 @@ show desktop                  F11
 take screenshot (full)        Cmd + Shift + 3
 take screenshot (part)        Cmd + Shift + 4
 show hidden files in dialog   Cmd + Shift + . (not in column view)
+euro sign                     Option + Shift + 2
 
 # firefox
 home                          Option + Fn + Left
