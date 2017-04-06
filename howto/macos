@@ -19,5 +19,8 @@ take screenshot (part)        Cmd + Shift + 4
 show hidden files in dialog   Cmd + Shift + . (not in column view)
 euro sign                     Option + Shift + 2
 
+# finder
+toggle hidden files           Cmd + Shift + .
+
 # firefox
 home                          Option + Fn + Left
