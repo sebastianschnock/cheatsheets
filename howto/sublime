@@ -43,6 +43,9 @@ goto bookmark                   F2
 remove bookmark                 Ctrl + Shift + F2
 switch tabs                     F1
 
+# plugin: emmet
+rename tag                      Ctrl + Shift + '
+
 # plugins: various
 prettify html/css/js            Ctrl + Shift + h
 css comb                        Ctrl + Shift + c
