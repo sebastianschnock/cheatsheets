@@ -18,3 +18,5 @@ revert local dir                        git checkout -- .
 show unpushed commits                   git log <remote>/<branch>..<local-branch>
                                         git log origin/master..
 
+# stashing
+stash everything                        git stash save -u
