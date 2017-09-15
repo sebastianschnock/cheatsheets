@@ -14,6 +14,11 @@ show remote branches                    git branch -a
 revert local commits                    git reset --hard <remote>/<branch>
 revert local dir                        git checkout -- .
 
+# revert / reset / cleanup
+unstage stuff                           git reset
+revert changes                          git checkout .
+remove untracked stuff                  git clean -fd
+
 # log
 show unpushed commits                   git log <remote>/<branch>..<local-branch>
                                         git log origin/master..
