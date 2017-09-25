@@ -45,6 +45,7 @@ switch tabs                     F1
 
 # plugin: emmet
 rename tag                      Ctrl + Shift + '
+rename tag (macos)              Cmd + Shift + k
 
 # plugins: various
 prettify html/css/js            Ctrl + Shift + h
