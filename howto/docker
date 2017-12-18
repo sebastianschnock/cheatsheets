@@ -1,0 +1,4 @@
+# docker
+
+read log files                              docker logs <container> >/dev/null
+shell into container                        docker exec -it <container> bash
