@@ -30,3 +30,7 @@ home                          Option + Fn + Left
 
 # iterm
 rename tab                    Cmd + i
+
+# brew
+update all brews              brew upgrade
+update all casks              brew cask install `brew cask list`

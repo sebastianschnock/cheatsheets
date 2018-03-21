@@ -18,6 +18,7 @@ revert local dir                        git checkout -- .
 unstage stuff                           git reset
 revert changes                          git checkout .
 remove untracked stuff                  git clean -fd
+checkout theirs                         git checkout --theirs <path>
 
 # log
 show unpushed commits                   git log <remote>/<branch>..<local-branch>
