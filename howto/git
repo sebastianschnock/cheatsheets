@@ -9,6 +9,7 @@ show remote url                         git remote show origin
 # branching
 create and switch to branch             git checkout -b <branch-name>
 show remote branches                    git branch -a
+rename branch                           git branch -m <old> <new>
 
 # commit
 revert local commits                    git reset --hard <remote>/<branch>
@@ -19,6 +20,7 @@ unstage stuff                           git reset
 revert changes                          git checkout .
 remove untracked stuff                  git clean -fd
 checkout theirs                         git checkout --theirs <path>
+revert rebase                           git reflog, then git reset --hard HEAD@{X}
 
 # log
 show unpushed commits                   git log <remote>/<branch>..<local-branch>
