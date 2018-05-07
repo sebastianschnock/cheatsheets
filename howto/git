@@ -25,6 +25,7 @@ revert rebase                           git reflog, then git reset --hard HEAD@{
 # log
 show unpushed commits                   git log <remote>/<branch>..<local-branch>
                                         git log origin/master..
+get sha from last commit                git log | head -1
 
 # stashing
 stash everything                        git stash save -u
