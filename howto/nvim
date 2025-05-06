@@ -19,5 +19,7 @@ C-w o 					close other windows
 # jumping
 [b 						jump to previous buffer
 ]b 						jump to next buffer
+[q 						jump to previous item in quicklist
+]q 						jump to next item in quicklist
 [[ 						jump to previous help section
 ]] 						jump to next help section
