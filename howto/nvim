@@ -11,3 +11,13 @@ C-s 					signature help (lsp)
 
 # windows
 C-w o 					close other windows
+
+# inserting things
+[<space> 				insert blank line above
+]<space> 				insert blank line below
+
+# jumping
+[b 						jump to previous buffer
+]b 						jump to next buffer
+[[ 						jump to previous help section
+]] 						jump to next help section
