@@ -1,1 +1,10 @@
 == 						fix indentation
+C-t 					jump tag stack
+C-x C-o 				code completion
+
+# lsp
+K 						show signature under cursor (lsp)
+grr 					references (lsp)
+grn 					rename (lsp)
+gO 						document symbols (lsp)
+C-s 					signature help (lsp)
