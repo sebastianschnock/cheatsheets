@@ -8,3 +8,6 @@ grr 					references (lsp)
 grn 					rename (lsp)
 gO 						document symbols (lsp)
 C-s 					signature help (lsp)
+
+# windows
+C-w o 					close other windows
