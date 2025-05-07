@@ -23,3 +23,4 @@ C-w o 					close other windows
 ]q 						jump to next item in quicklist
 [[ 						jump to previous help section
 ]] 						jump to next help section
+C-] 					jump to help topic under cursor
