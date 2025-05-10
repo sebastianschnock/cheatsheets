@@ -24,6 +24,8 @@ C-w o 					close other windows
 [[ 						jump to previous help section
 ]] 						jump to next help section
 C-] 					jump to help topic under cursor
+[d 						jump to previos diagnosis item
+[d 						jump to next diagnosis item
 
 # telescope
 C-x 					open in horizontal split (telescope)
