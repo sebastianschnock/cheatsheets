@@ -12,6 +12,7 @@ show remote branches                    git branch -a
 rename branch                           git branch -m <old> <new>
 push branch and set upstream            git push -u origin HEAD
 delete branch (remote)                  git push origin --delete <branch>
+create new branch and revert current branch 	git spin-off
 
 # commit
 revert local commits                    git reset --hard <remote>/<branch>

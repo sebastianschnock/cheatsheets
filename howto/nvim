@@ -1,6 +1,7 @@
 == 						fix indentation
 C-t 					jump tag stack
 C-x C-o 				code completion
+:bd 					unload current buffer
 
 # lsp
 K 						show signature under cursor (lsp)
