@@ -9,9 +9,11 @@ grr 					references (lsp)
 grn 					rename (lsp)
 gO 						document symbols (lsp)
 C-s 					signature help (lsp)
+C-] 					goto definition (lsp)
 
 # windows
 C-w o 					close other windows
+C-w ] 					open definition in new window (lsp)
 
 # inserting things
 [<space> 				insert blank line above
