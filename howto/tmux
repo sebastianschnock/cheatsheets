@@ -1,0 +1,2 @@
+[prefix] + pgup				scroll up and insert copy mode
+q							leave copy mode
