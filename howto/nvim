@@ -1,7 +1,11 @@
-== 						fix indentation
 C-t 					jump tag stack
 C-x C-o 				code completion
 :bd 					unload current buffer
+
+# text conversion
+== 						fix indentation
+gu						convert to lowercase
+gU						convert to uppercase
 
 # lsp
 K 						show signature under cursor (lsp)
