@@ -1,11 +1,39 @@
+# most awesome commands
+ci"						replace string
+dap						delete paragraph
+cit						replace inside tag
+cib						replace inside ( or [ block
+ciB						replace inside ( or { block
+
+# various
 C-t 					jump tag stack
 C-x C-o 				code completion
 :bd 					unload current buffer
+.						repeat last change
+
+# delete / replace
+df						delete until x () same line
+dt						delete until x (excluding) same line
+d/						delete until x (excluding) multiple lines
+ciw						change word (cursor somewhere on word)
+daw						delete word including whitespaces
 
 # text conversion
 == 						fix indentation
 gu						convert to lowercase
 gU						convert to uppercase
+g~						toggle case
+~						toggle case for single char
+>						shift right
+<						shift left
+=						format
+
+# searching
+f						find and jump
+t						find and jump before
+;						repeat last char search
+,						repeat last char search (backwards)
+%						matching ({[ or tag
 
 # lsp
 K 						show signature under cursor (lsp)

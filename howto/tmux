@@ -1,2 +1,4 @@
 [prefix] + pgup				scroll up and insert copy mode
 q							leave copy mode
+tmux new -s <name>			create new session
+:new -s <name>				create new session
