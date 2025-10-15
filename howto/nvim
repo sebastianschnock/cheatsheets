@@ -10,6 +10,8 @@ C-t 					jump tag stack
 C-x C-o 				code completion
 :bd 					unload current buffer
 .						repeat last change
+C-a						increment number
+C-x						decrement number
 
 # delete / replace
 df						delete until x () same line
