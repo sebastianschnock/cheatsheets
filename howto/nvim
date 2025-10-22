@@ -12,6 +12,7 @@ C-x C-o 				code completion
 .						repeat last change
 C-a						increment number
 C-x						decrement number
+gv						re-select last selection
 
 # delete / replace
 df						delete until x () same line
@@ -19,6 +20,11 @@ dt						delete until x (excluding) same line
 d/						delete until x (excluding) multiple lines
 ciw						change word (cursor somewhere on word)
 daw						delete word including whitespaces
+"_dd					delete into void (don't save in register)
+
+# copy & paste
+"ay						yank into register a (paste with p)
+gp						paste and put cursor after pasted item
 
 # text conversion
 == 						fix indentation
@@ -68,7 +74,4 @@ C-] 					jump to help topic under cursor
 C-x 					open in horizontal split (telescope)
 C-v 					open in vertical split (telescope)
 
-# copy & paste (and delete)
-"ay						yank into register a (paste with p)
-"_dd					delete into void (don't save in register)
 
