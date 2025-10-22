@@ -67,3 +67,8 @@ C-] 					jump to help topic under cursor
 # telescope
 C-x 					open in horizontal split (telescope)
 C-v 					open in vertical split (telescope)
+
+# copy & paste (and delete)
+"ay						yank into register a (paste with p)
+"_dd					delete into void (don't save in register)
+
