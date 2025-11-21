@@ -7,8 +7,8 @@ ciB						replace inside ( or { block
 '0						jump to last location (after closing neovim)
 
 # tryouts
-gi						TRY: jump to last insert position
-C-w						TRY: delete last typed word
+gi						try: jump to last insert position
+C-w						try: delete last typed word
 
 # various
 C-t 					jump tag stack
