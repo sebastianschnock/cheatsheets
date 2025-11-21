@@ -4,6 +4,11 @@ dap						delete paragraph
 cit						replace inside tag
 cib						replace inside ( or [ block
 ciB						replace inside ( or { block
+'0						jump to last location (after closing neovim)
+
+# tryouts
+gi						TRY: jump to last insert position
+C-w						TRY: delete last typed word
 
 # various
 C-t 					jump tag stack
