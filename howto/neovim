@@ -47,6 +47,8 @@ t						find and jump before
 ;						repeat last char search
 ,						repeat last char search (backwards)
 %						matching ({[ or tag
+*						find next occurence of word under cursor
+#						find previous occurence of word under cursor
 
 # lsp
 K 						show signature under cursor (lsp)
