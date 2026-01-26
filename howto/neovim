@@ -5,6 +5,7 @@ cit						replace inside tag
 cib						replace inside ( or [ block
 ciB						replace inside ( or { block
 '0						jump to last location (after closing neovim)
+C-^						toggle between two buffers
 
 # tryouts
 gi						try: jump to last insert position
