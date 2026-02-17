@@ -55,6 +55,7 @@ t						find and jump before
 K 						show signature under cursor (lsp)
 grr 					references (lsp)
 grn 					rename (lsp)
+gra						code action
 gO 						document symbols (lsp)
 C-s 					signature help (lsp)
 C-] 					goto definition (lsp)
