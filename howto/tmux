@@ -2,3 +2,4 @@
 q							leave copy mode
 tmux new -s <name>			create new session
 :new -s <name>				create new session
+[prefix] + ,				rename window
