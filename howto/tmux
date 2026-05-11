@@ -5,3 +5,4 @@ tmux new -s <name>			create new session
 [prefix] + pgup				scroll up and insert copy mode
 [prefix] + ,				rename window
 q							leave copy mode
+[prefix] + c				new window
